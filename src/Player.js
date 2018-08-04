@@ -63,17 +63,3 @@ class Player {
     return player;
   }
 }
-
-
-const play1 = new Player(1000);
-const play2 = new Player(1000);
-
-play1.winsFrom(play2);
-play1.winsFrom(play2);
-
-console.log(play1.getPerformanceRating());
-console.log(play2.getPerformanceRating());
-
-
-
-
