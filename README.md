@@ -1,5 +1,3 @@
-# Work in progress
-
 # Algorithm of 400 (aka Performance Rating)
 
 Implementation of `Algorithm of 400` in Javascript.
